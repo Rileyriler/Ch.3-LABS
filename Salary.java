@@ -3,7 +3,7 @@
 //
 //   Computes the amount of a raise and the new
 //   salary for an employee.  The current salary
-//   and a performance rating (a String: "Excellent",
+//   and a performsance rating (a String: "Excellent",
 //   "Good" or "Poor") are input.
 // ***************************************************************
  
